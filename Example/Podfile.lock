@@ -1,5 +1,5 @@
 PODS:
-  - Popover (1.2.3)
+  - Popover (1.2.4)
 
 DEPENDENCIES:
   - Popover (from `https://github.com/haporter/Popover.git`)
@@ -10,11 +10,11 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   Popover:
-    :commit: 6d568db4eb00a356fb73a3b84997487342486e64
+    :commit: 0143d74d95c6b7784c0631ed17cee743f8860929
     :git: https://github.com/haporter/Popover.git
 
 SPEC CHECKSUMS:
-  Popover: b75d7ab2a5f47a94360399f7cdf862b454346765
+  Popover: 33e4d148af65c73e5f4040678158856f503cfd0a
 
 PODFILE CHECKSUM: dbccfa4b23f9576f3dc9a2c5ee1fb89581b9014b
 
