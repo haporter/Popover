@@ -1,16 +1,21 @@
 PODS:
-  - Popover (1.2.2)
+  - Popover (1.2.3)
 
 DEPENDENCIES:
-  - Popover (from `../`)
+  - Popover (from `https://github.com/haporter/Popover.git`)
 
 EXTERNAL SOURCES:
   Popover:
-    :path: "../"
+    :git: https://github.com/haporter/Popover.git
+
+CHECKOUT OPTIONS:
+  Popover:
+    :commit: 6d568db4eb00a356fb73a3b84997487342486e64
+    :git: https://github.com/haporter/Popover.git
 
 SPEC CHECKSUMS:
-  Popover: 21e357f86d45c8d9e29a41a4adbca3664d6e511f
+  Popover: b75d7ab2a5f47a94360399f7cdf862b454346765
 
-PODFILE CHECKSUM: 6d2f20b0ca605fb4d048b05500bed6d649d9a399
+PODFILE CHECKSUM: dbccfa4b23f9576f3dc9a2c5ee1fb89581b9014b
 
 COCOAPODS: 1.8.4
